@@ -1,0 +1,11 @@
+C:\Users\david\Documents\Practica2_POO\bin\Debug\netcoreapp3.0\Practica2_POO.exe
+C:\Users\david\Documents\Practica2_POO\bin\Debug\netcoreapp3.0\Practica2_POO.deps.json
+C:\Users\david\Documents\Practica2_POO\bin\Debug\netcoreapp3.0\Practica2_POO.runtimeconfig.json
+C:\Users\david\Documents\Practica2_POO\bin\Debug\netcoreapp3.0\Practica2_POO.runtimeconfig.dev.json
+C:\Users\david\Documents\Practica2_POO\bin\Debug\netcoreapp3.0\Practica2_POO.dll
+C:\Users\david\Documents\Practica2_POO\bin\Debug\netcoreapp3.0\Practica2_POO.pdb
+C:\Users\david\Documents\Practica2_POO\obj\Debug\netcoreapp3.0\Practica2_POO.csprojAssemblyReference.cache
+C:\Users\david\Documents\Practica2_POO\obj\Debug\netcoreapp3.0\Practica2_POO.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Practica2_POO\obj\Debug\netcoreapp3.0\Practica2_POO.AssemblyInfo.cs
+C:\Users\david\Documents\Practica2_POO\obj\Debug\netcoreapp3.0\Practica2_POO.dll
+C:\Users\david\Documents\Practica2_POO\obj\Debug\netcoreapp3.0\Practica2_POO.pdb
